@@ -18,7 +18,7 @@ require 'date'
 require 'colorize'     #gem install colorize
 require 'csv'		
 
-require 'country.rb'				
+require_relative 'country.rb'				
 
 exit_requested = false
 Kernel.trap( "INT" ) { exit_requested = true }
