@@ -382,3 +382,4 @@ def Country.hex2country(hexnum)
 	end
    return country
 end
+end
