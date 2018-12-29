@@ -10,7 +10,7 @@ Copyright (C) 2017 Алексей "FoxyLab" Воронин<br/>
 Дополнительные файлы:<br/>
 country.rb - модуль определения страны по адресу ICAO воздушного судна;<br/>
 icao.csv - база данных с адресами ICAO, регистрационными номерами и типами воздушных судов.<br/><br/><br/>
-<b>bs_parse</i> - Ruby program for the logging aircrafts information from fr24feed program.<br/><br/>
+<i>bs_parse</i> - Ruby program for the logging aircrafts information from fr24feed program.<br/><br/>
 Copyright (C) 2017 Alexey "FoxyLab" Voronin<br/>
 Email:    support@foxylab.com<br/>
 Website:  https://acdc.foxylab.com<br/>
